@@ -1,3 +1,10 @@
+dosbox (0.74-4) UNRELEASED; urgency=low
+
+  [ Rodrigo Silva ]
+  * Include larger, multiple size icons
+
+ -- Jan Dittberner <jandd@debian.org>  Mon, 27 Jul 2014 23:11:00 -0300
+
 dosbox (0.74-3) unstable; urgency=low
 
   * Fix manpage bugs by updating debian/patches/fix_manpage_errors.patch
