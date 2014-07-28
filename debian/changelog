@@ -2,6 +2,7 @@ dosbox (0.74-4) UNRELEASED; urgency=low
 
   [ Rodrigo Silva ]
   * Include larger, multiple size icons
+  * Remove old pixmap icon and pre-XDG menu
 
  -- Jan Dittberner <jandd@debian.org>  Mon, 27 Jul 2014 23:11:00 -0300
 
